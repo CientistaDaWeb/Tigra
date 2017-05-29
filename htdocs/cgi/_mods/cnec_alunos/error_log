@@ -1,0 +1,19 @@
+[03-Aug-2012 18:23:38 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/serverws/public_html/cgi/_mods/cnec_alunos/desativa_alunos.php on line 11
+[16-Aug-2012 12:33:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 11
+[16-Aug-2012 12:33:55 UTC] PHP Fatal error:  Class 'upload' not found in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 22
+[16-Aug-2012 12:49:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 11
+[16-Aug-2012 12:49:36 UTC] PHP Fatal error:  Class 'upload' not found in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 22
+[16-Aug-2012 12:50:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 11
+[16-Aug-2012 12:50:10 UTC] PHP Fatal error:  Class 'upload' not found in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 22
+[16-Aug-2012 12:52:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 11
+[16-Aug-2012 12:52:43 UTC] PHP Fatal error:  Class 'upload' not found in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 22
+[16-Aug-2012 13:02:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 11
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 15
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 18
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 15
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 18
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 15
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 18
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 15
+[26-Nov-2012 23:21:56 UTC] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch database2 in /home/serverws/public_html/cgi/_classe/pagination_class.php on line 18
+[15-Mar-2013 16:36:20 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/serverws/public_html/cgi/_mods/cnec_alunos/upload_boletim.php on line 43

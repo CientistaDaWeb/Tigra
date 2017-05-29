@@ -1,0 +1,7 @@
+php_value register_globals off
+#php_value display_errors off
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteBase /demo/
+        RewriteRule !\.(swf|js|ico|gif|jpg|png|css)$ index.php
+</IfModule>

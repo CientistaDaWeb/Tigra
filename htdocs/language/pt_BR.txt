@@ -1,0 +1,17 @@
+{
+	"sProcessing": "Procesando...",
+	"sLengthMenu": "Mostrar _MENU_ registros",
+	"sZeroRecords": "<span class='vazio'>Não foi encontrado nenhum registro com esses dados.</span>",
+	"sInfo": "Mostrando _START_ a _END_ de _TOTAL_ registros",
+	"sInfoEmtpy": "Mostrando 0 a 0 de 0 registros",
+	"sInfoFiltered": "(filtrado de _MAX_ registros no total.)",
+	"sInfoPostFix": "",
+	"sSearch": "Buscar:",
+	"sUrl": "",
+	"oPaginate": {
+		"sFirst":    "<<",
+		"sPrevious": "<",
+		"sNext":     ">",
+		"sLast":     ">>"
+	}
+}

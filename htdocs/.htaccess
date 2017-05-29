@@ -1,0 +1,14 @@
+php_value register_globals off
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule ^boleto/(.*)/?$ boleto.php?doc=$1
+</IfModule>
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE application/x-javascript text/css text/javascript
+</IfModule>
+<FilesMatch ".(jpg|jpeg|png|gif)$">
+    Header set Expires "Tue, 18 Dec 2010 02:18:46 GMT"
+</FilesMatch>
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE application/x-javascript text/css text/javascript
+</IfModule>

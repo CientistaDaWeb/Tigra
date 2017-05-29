@@ -1,0 +1,5 @@
+php_value register_globals off
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule !\.(gif|jpg|png|css|js|ico|php|txt)$ /login/index.php
+</IfModule>
